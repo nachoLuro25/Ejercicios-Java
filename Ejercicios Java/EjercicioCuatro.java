@@ -5,11 +5,11 @@ public class EjercicioCuatro {
 
 	public static void main(String[] args) {
         List<String> nombres = new ArrayList<>();
-        nombres.add("Ana");
-        nombres.add("Carlos");
-        nombres.add("Beatriz");
-        nombres.add("David");
-        nombres.add("Elena");
+        nombres.add("Marcos");
+        nombres.add("Facundo");
+        nombres.add("Enrique");
+        nombres.add("Julieta");
+        nombres.add("Paula");
 
         for (String nombre : nombres) {
             System.out.println(nombre);
